@@ -146,7 +146,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 .integrante blockquote cite {
     display:block;
     font-style: normal;
-    font-weight: 7100;
+    font-weight: 100;
     font-size:.8rem;
     letter-spacing : 0.1rem;
     padding-top:0.25rem;
@@ -154,7 +154,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante blockquote cite:before {
-  
+
 }
 
 .integrante:nth-of-type(1){
@@ -256,7 +256,7 @@ AHORA VAMOS POR PORTAFOLIO
      filter: grayscale(1);
 }
  .item:hover figure img{
-     transform:none(2);
+     transform: none(2);
      filter: grayscale(0);
      transition:all none 1s;
 }
@@ -428,7 +428,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 .integrante blockquote cite {
     display:block;
     font-style: normal;
-    font-weight: 7100;
+    font-weight: 100;
     font-size:.8rem;
     letter-spacing : 0.1rem;
     padding-top:0.25rem;
@@ -443,7 +443,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
     background-color:#ff8a80;
     background-image:url('media/integrante-1a.png');
     background-position: bottom right;
-    background-size:auto 90%;
+    background-size:auto 102%;
     background-repeat: no-repeat;
 }
 
@@ -452,7 +452,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
     background:#f9c22d;
     background-image:url('media/integrante-2a.png');
     background-position: bottom right;
-    background-size:auto 90%;
+    background-size:auto 117%;
     background-repeat: no-repeat;
 }
 
@@ -460,7 +460,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
     background:#FA7633;
     background-image:url('media/integrante-3a.png');
     background-position: bottom right;
-    background-size:auto 90%;
+    background-size:auto 100%;
     background-repeat: no-repeat;
 }
 
@@ -468,7 +468,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
     background-color:#c85a54;
     background-image:url('media/integrante-1b.png');
     background-position: bottom right;
-    background-size:auto 90%;
+    background-size:auto 102%;
     background-repeat: no-repeat;
 }
 
@@ -476,7 +476,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
     background:#c29400;
     background-image:url('media/integrante-2b.png');
     background-position: bottom right;
-    background-size:auto 90%;
+    background-size:auto 112%;
     background-repeat: no-repeat;
 }
 
@@ -497,7 +497,7 @@ AHORA VAMOS POR PORTAFOLIO
 #portafolio{
     width:100%;
     padding:.25% 0;
-    background:linear-gradient(to bottom, #EEEEEE, #AAAAAA);
+    background:linear-gradient(to bottom, #f9eba7, #fce19d);
 }
 
 .item {
@@ -505,7 +505,7 @@ AHORA VAMOS POR PORTAFOLIO
     margin:0.5%;
     color:#000;
     background:#eceaea;
-    box-shadow:0 3px #c29400
+    box-shadow:0 4px #c29400
 }
 
 @media screen and (max-width: 768px){
