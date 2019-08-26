@@ -27,7 +27,7 @@ var trabajos = [{
     alt: "DImagen vista frontal del teléfono.",
     title: "Modelado 3D",
     about: "Teléfono anitguo. Modelado 3D en Rhinoceros. Examen Diseño por computación 2018 - Josefina Cerda",
-    url: "https://www.instagram.com/p/B1m4wDOhjEG/"
+    url: "https://www.instagram.com/p/B1nHEh3hTpK/"
 }, {
     figure: "media/trabajo-06-textil.jpg",
     alt: "Imagen producto en uso. Ramo de flores astormelias rojas.",
