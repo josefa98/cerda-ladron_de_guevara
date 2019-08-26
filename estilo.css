@@ -434,7 +434,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante blockquote cite:before {
-    content:"â€” ";
+    content:"-” ";
 }
 
 .integrante:nth-of-type(1){
